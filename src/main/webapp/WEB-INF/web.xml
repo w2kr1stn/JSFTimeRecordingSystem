@@ -2,7 +2,7 @@
 <!DOCTYPE web-app>
 
 <!-- =========================================================================== 
-	web.xml - Last update ==> 2021-05-31, Lea Heilmann, Willi Kristen Verzeichnis: 
+	web.xml - Last update ==> 2021-05-31, Lea Heilmann, wallace schwein Verzeichnis: 
 	{Projekt}/src/main/webapp/WEB-INF/ ============================================================================ -->
 
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -14,7 +14,7 @@
 	<display-name>JSF 2.3 Zeiterfassung, Last update: 2021-5-30</display-name>
 	<description>
 		Ein JSF_basiertes Zeiterfassungstool, mit MySQL Verbindung, von Lea
-		Heilmann und Willi Kristen
+		Heilmann und wallace schwein
 	</description>
 
 	<welcome-file-list>

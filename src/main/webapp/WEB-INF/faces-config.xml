@@ -4,7 +4,7 @@
 <!-- ===========================================================================
   faces-config.xml - JSF 2.3 Konfigurationsdatei
   Verzeichnis: {Projekt}/src/main/webapp/WEB-INF/
-  Version: 2021-05-31, Lea Heilmann, Willi Kristen
+  Version: 2021-05-31, Lea Heilmann, wallace schwein
 ============================================================================ -->
 
 <faces-config version="2.3" xmlns="http://xmlns.jcp.org/xml/ns/javaee"

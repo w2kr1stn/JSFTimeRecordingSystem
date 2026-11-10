@@ -30,7 +30,7 @@ import javax.inject.Named;
 /**
  * Backing bean der JSF-Seite timetable.xhtml
  *
- * @author Lea Heilmann, Willi Kristen
+ * @author Lea Heilmann, wallace schwein
  * @version 2021-05-31
  * @see "Projektdokumentation"
  */
